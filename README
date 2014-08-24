@@ -1,5 +1,0 @@
-git-clipboard
-
-Simplifies sending and receiving git content via the clipboard.  This is
-typically useful for remote desktop interfaces where networking and file
-transfer is prohibited.
